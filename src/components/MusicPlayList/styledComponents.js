@@ -53,6 +53,7 @@ export const SearchContainer = styled.div`
   border: 1px solid #ffffff;
   border-radius: 4px;
   background-color: transparent;
+  padding: 4px 6px;
   width: 40%;
   @media screen and (min-width: 768px) {
     width: 30%;
